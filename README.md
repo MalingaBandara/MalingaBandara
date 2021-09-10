@@ -7,9 +7,8 @@
 <p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></p><div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
- <p align="center">
-<h3 style="text-align: center;">I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3>
-<p>
+ <div align="center">
+<h3 style="text-align: center;">I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3></div>
 <p>&nbsp;</p>
 
 - 🌱 I’m currently learning **iOS App developing.**
