@@ -4,9 +4,8 @@
 <p>&nbsp;</p>
 
 
-<div style="max-width: 40%; max-height: 40%; display: flex;">
- <div align="right"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></div>
-<div align="left"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=radical" alt="malingabandara" /></div>
+<div style="max-width: 100%; max-height: 40%; display: flex;">
+ <div align="right"><img max-width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></div><div align="left"><img max-width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=radical" alt="malingabandara" /></div>
 <div>
  
  
