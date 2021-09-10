@@ -4,8 +4,8 @@
 <p>&nbsp;</p>
 
 
-<div style="max-width: 100%; max-height: 40%; display: flex; ">
- <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&theme=radical&show_icons=true&locale=en&layout=compact" alt="malingabandara" />
+<div style="max-width: 85%; max-height: 40%;">
+ <img  style="max-height: 200%;"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&theme=radical&show_icons=true&locale=en&layout=compact" alt="malingabandara" />
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=malingabandara&theme=radical&show_icons=true&locale=en" alt="malingabandara" />
 </div>
  
