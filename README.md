@@ -5,7 +5,7 @@
 
 
 <div style="max-width: 100%; max-height: 40%; display: flex; ">
- <img  align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&theme=radical&show_icons=true&locale=en&layout=compact" alt="malingabandara" />
+ <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&theme=radical&show_icons=true&locale=en&layout=compact" alt="malingabandara" />
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=malingabandara&theme=radical&show_icons=true&locale=en" alt="malingabandara" />
 </div>
  
