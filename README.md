@@ -9,13 +9,14 @@
 
 <h3 align="center">I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3>
 
-
+<p>&nbsp;</p>
 
 - 🌱 I’m currently learning **iOS App developing.**
 
 - 📫 How to reach me **malinga1021@gmail.com**
 
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
