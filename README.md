@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> </p>
 <p>&nbsp;</p>
 <div style="max-width: 40%; max-height: 40%;">
-<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=radical" alt="malingabandara" /></p>
-<p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></p><div>
+<div style="margin-left:1px"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=radical" alt="malingabandara" /></div>
+<div style="margin-right:1px"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></div><div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
  <div align="center"> 
