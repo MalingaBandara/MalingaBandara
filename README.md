@@ -2,9 +2,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> </p>
 <p>&nbsp;</p>
+
+
 <div style="max-width: 40%; max-height: 40%; display: flex;">
+ <div align="right"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></div>
 <div align="left"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=radical" alt="malingabandara" /></div>
-<div align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></div><div>
+<div>
+ 
+ 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
  <div align="center"> 
