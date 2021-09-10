@@ -1,24 +1,30 @@
 <h1 align="center">Hi 👋, I'm Malinga👨‍💻</h1>
 
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> </p>
-<p>&nbsp;</p>
 
 
-<div style="max-width: 85%; max-height: 40%;">
- <img  style="max-height: 200%;"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&theme=radical&show_icons=true&locale=en&layout=compact" alt="malingabandara" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=malingabandara&theme=radical&show_icons=true&locale=en" alt="malingabandara" />
+<br/>
+<div style="width: 80%; height: 30%; display: flex; ">
+ <img  align="right"; style=" width: 45%; height:40%;  "  src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&theme=radical&show_icons=true&locale=en&layout=compact" alt="malingabandara" />
 </div>
+<br/>
+<div style=" width: 80%; height: 70%; display: flex; ">
+ <img align="left" style=" width: 45%; height:100%;" src="https://github-readme-stats.vercel.app/api?username=malingabandara&layout=compact&theme=radical&show_icons=true&locale=en" alt="malingabandara"/></div>
  
- 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
- <div align="center"> 
-<h3 style="text-align: center;">I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3></div>
-<p>&nbsp;</p>
+ <br/>
+<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/> 
+
+
+ <div align="left" style="width: 80%; height: 45%; display: flex; ">
+<h3 style="text-align: center;" >I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3></div> 
 
 - 🌱 I’m currently learning **iOS App developing.**
 
 - 📫 How to reach me **malinga1021@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
