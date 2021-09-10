@@ -4,10 +4,10 @@
 <p>&nbsp;</p>
 <div style="max-width: 40%; max-height: 40%;">
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=radical" alt="malingabandara" /></p>
-<p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></p><div>
+<p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></p><div>
 <p>&nbsp;</p>
-
-<h3 align="center">I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3>
+<p>&nbsp;</p>
+<h3 style="text-align: center;">I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3>
 
 <p>&nbsp;</p>
 
