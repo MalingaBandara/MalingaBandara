@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **malinga1021@gmail.com**
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
