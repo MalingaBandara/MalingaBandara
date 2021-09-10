@@ -12,9 +12,8 @@
 <div style=" width: 80%; height: 70%; display: flex; ">
  <img align="left" style=" width: 45%; height:100%;" src="https://github-readme-stats.vercel.app/api?username=malingabandara&layout=compact&theme=radical&show_icons=true&locale=en" alt="malingabandara"/></div>
  
- <br/>
-<br/>
-<br/><br/><br/><br/><br/><br/><br/><br/> <br/> <br/>
+
+<br/><br/><br/><br/><br/><br/><br/><br/> <br/> 
 
  <div align="left" style="width: 80%; height: 45%; display: flex; ">
 <h3 style="text-align: center;" >I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3></div> 
