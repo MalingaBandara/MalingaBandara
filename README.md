@@ -4,7 +4,7 @@
 <p>&nbsp;</p>
 <div style="max-width: 40%; max-height: 40%;">
 <div style="margin-left:1px"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=radical" alt="malingabandara" /></div>
-<div style="margin-right:1px"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></div><div>
+<div style="padding-right:1px"><img width="45%" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=radical" alt="malingabandara" /></div><div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
  <div align="center"> 
