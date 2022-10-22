@@ -11,8 +11,8 @@
 
  
 <br><br><br><br><br><br><br><br><br><br>
-
-<p>I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</p>
+<div  >
+<h3 style=" text-align: center">I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3><div>
 
 - 🌱 I’m currently learning **iOS App developing.**
 
