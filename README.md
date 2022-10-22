@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> </p>
 
 <br>
-<div style="display: flex;  flex-direction: row; height: 40vw">
+<div style="display: flex;  height: 40vw">
     <img  align="right" style="width:50vh; " src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&amp;theme=radical&amp;show_icons=true&amp;locale=en&amp;layout=compact" /><img  align="left" src="https://github-readme-stats.vercel.app/api?username=malingabandara&amp;layout=compact&amp;theme=radical&amp;show_icons=true&amp;locale=en" /> </div>
   
     
