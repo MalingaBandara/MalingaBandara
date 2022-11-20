@@ -18,7 +18,7 @@
  <div align="left" style="width: 80%; height: 45%; display: flex; ">
 <h3 style="text-align: center;" >I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3></div> 
 
-- 🌱 I’m currently learning **iOS App developing.**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **malinga1021@gmail.com**
 
