@@ -4,15 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> </p>
 
-
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="malingabandara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malingabandara" height="192px"/>
-  <br/>
+  <p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malingabandara" height="192px"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=algolia" alt="malingabandara" height="192px" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+
 
 </br>
 
