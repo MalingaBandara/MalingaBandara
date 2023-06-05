@@ -1,6 +1,6 @@
 
 
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+#  Hi 👋, I'm Malinga.  <!-- <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif" width=5% valign="bottom"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> </p>
 
@@ -20,7 +20,7 @@
 
 
  <div align="left" style="width: 80%; height: 45%; display: flex; ">
-<h3 style="text-align: center;" >I'm Malinga Bandara from Sri Lanka, and I do developing websites, software and iOS apps as well. I really enjoy within coding, Adept at using Java and other programming languages to produce clean code.👨‍💻</h3></div> 
+<h3 style="text-align: center;" >I'm Malinga Bandara from Sri Lanka. I am a young fresh graduate software engineer looking to work in an environment that encourages me to succeed and grow professionally where I can utilze my skills and knowledge appropriately. Also, a respectable self-motivation to find reliable solutions to software problems. Proficient in using Java and other programming languages ​​to produce clean code. Accustomed to working with cross-cultural, global teams. 👨‍💻</h3></div> 
 
 - 🌱 I’m currently learning **Spring Boot**
 
