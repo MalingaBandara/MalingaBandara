@@ -1,6 +1,9 @@
 
 
-#  Hi 👋, I'm Malinga.  <!-- <img src="https://media.giphy.com/media/d9RbxjZ8QXesiYoerE/giphy.gif" width=5% valign="bottom"> -->
+#  Hi  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=5% valign="bottom">,  I'm Malinga Bandara. <img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width=5% valign="bottom">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> </p>
 
@@ -30,7 +33,7 @@
 </br>
 
 
-## Connect with me:
+## Connect with me: <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width=10% valign="bottom"/>
 <p align="left">
 <a href="https://twitter.com/MalingaB_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MalingaB_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/malingabandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malingabandara" height="30" width="40" /></a>
@@ -50,7 +53,7 @@
 
 <br/> 
 
-## Languages and Tools:
+##  Languages and Tools:  <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="10%" valign="bottom" /> 
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -58,7 +61,23 @@
 <br/>
 
 
-
 <br><br>
 
 [![@malingabandara's Holopin board](https://holopin.io/api/user/board?user=malingabandara)](https://holopin.io/@malingabandara)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MalingaBandara/count.svg" />
+</p>
+
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 nice 𝚍𝚊𝚢! 
+<img src="https://github.com/MalingaBandara/red-alpha/blob/main/Hi.gif" width="20px">
+</h5>
+
+<p align="center"> 
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width=45% />
+</p>
+
