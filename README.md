@@ -1,9 +1,7 @@
 
 # Hi there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=5% valign="bottom"> I'm Malinga Bandara <img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width=5% valign="bottom">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> 
-</p>
+
 
 <br/>
 <p align="center">
@@ -100,3 +98,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width=45% />
 </p>
 
+<!--
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> 
+</p>
+-->
