@@ -23,7 +23,8 @@
     <h3 style="text-align: center;">I’m Malinga Bandara, a passionate software engineer with a BSc (Hons) in Software Engineering. I specialize in building innovative solutions across backend systems, mobile apps, and web development. Skilled in Java, Spring Boot, SwiftUI, and the MERN stack, I’m currently expanding my expertise into AI and Machine Learning. I enjoy solving complex problems and working in dynamic environments that value innovation and collaboration. My experience includes microservices, RESTful APIs, and Docker, and I thrive in teams where clear communication drives impactful results. I’m eager to contribute to cutting-edge projects and grow alongside fellow tech enthusiasts.</h3>
 </div>
 
-- 🌱 Currently mastering **MERN stack (MongoDB, Express.js, React.js, Node.js)**
+- 🌱 Currently mastering **
+AI / ML**
 
 - 💼 Open to job opportunities, reach me at **dishancm6@gmail.com**
 
