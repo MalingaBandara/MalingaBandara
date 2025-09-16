@@ -20,7 +20,7 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <div align="left" style="width: 80%; height: 45%; display: flex;">
-  <h3 style="text-align: center;">Welcome to my GitHub profile! I'm Malinga Bandara, a passionate software engineer from Sri Lanka. With a background in Java and Spring Boot, I've recently ventured into mastering the MERN stack, focusing on MongoDB, Express.js, React.js, and Node.js. I have hands-on experience with Microservices Architecture and Docker, and I'm eager to leverage these skills in challenging projects that drive innovation.</h3>
+    <h3 style="text-align: center;">I’m Malinga Bandara, a passionate software engineer with a BSc (Hons) in Software Engineering. I specialize in building innovative solutions across backend systems, mobile apps, and web development. Skilled in Java, Spring Boot, SwiftUI, and the MERN stack, I’m currently expanding my expertise into AI and Machine Learning. I enjoy solving complex problems and working in dynamic environments that value innovation and collaboration. My experience includes microservices, RESTful APIs, and Docker, and I thrive in teams where clear communication drives impactful results. I’m eager to contribute to cutting-edge projects and grow alongside fellow tech enthusiasts.</h3>
 </div>
 
 - 🌱 Currently mastering **MERN stack (MongoDB, Express.js, React.js, Node.js)**
