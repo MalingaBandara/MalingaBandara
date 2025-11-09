@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Hi%20there!%20%20I'm%20Malinga%20Bandara&animation=twinkling"
 # Hi there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=5% valign="bottom"> I'm Malinga Bandara <img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width=5% valign="bottom">
 
 
