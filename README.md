@@ -1,33 +1,43 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Hi%20there!%20%20I'm%20Malinga%20Bandara&animation=twinkling">
-# Hi there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=5% valign="bottom"> I'm Malinga Bandara <img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width=5% valign="bottom">
+<div>
+  <img 
+    src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" 
+    width="15%" 
+    style="vertical-align: left;" 
+  >
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:443AB4,100:9054CC&text=Hi,%20I'm%20Malinga%20Bandara&fontSize=50&fontAlignY=45&animation=twinkling&descSize=27&descAlignY=85&desc=Software%20Engineer%20|%20Growth%20Mindset%20|%20Tech%20Enthusiast%20&fontColor=8865D4" 
+    width="80%" 
+  >
+  
+</div>
+
+
+<!--<img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width=5% valign=""> 
+
+ Hi there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=5% valign="bottom"> I'm Malinga Bandara -->
 
 
 
-<br/>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malingabandara" height="192px"/>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=algolia" alt="malingabandara" height="192px" />
-</p>
 
-<p align="center">
-  <b>Note:</b> Top languages are metrics of my public code and do not reflect skill level.
-</p>
-
-<br/>
-
-## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <div align="left" style="width: 80%; height: 45%; display: flex;">
-    <h3 style="text-align: center;">I’m Malinga Bandara, a passionate software engineer with a BSc (Hons) in Software Engineering. I specialize in building innovative solutions across backend systems, mobile apps, and web development. Skilled in Java, Spring Boot, SwiftUI, and the MERN stack, I’m currently expanding my expertise into AI and Machine Learning. I enjoy solving complex problems and working in dynamic environments that value innovation and collaboration. My experience includes microservices, RESTful APIs, and Docker, and I thrive in teams where clear communication drives impactful results. I’m eager to contribute to cutting-edge projects and grow alongside fellow tech enthusiasts.</h3>
+  <h3 style="text-align: center;">
+    I’m passionate about building innovative solutions across backend systems, web, and mobile platforms.
+    Skilled in Java, Spring Boot, SwiftUI, and the MERN stack, I’m currently expanding my expertise into AI and Machine Learning.<br><br>
+    I enjoy solving complex problems, creating scalable systems, and working in environments that value innovation, collaboration, and continuous learning.
+    My experience includes microservices, RESTful APIs, and Docker, and I’m always driven to grow and contribute to impactful projects.
+  </h3>
 </div>
+
 
 - 🌱 Currently mastering **AI / ML**
 
-- 💼 Open to job opportunities, reach me at **dishancm6@gmail.com**
+- 💼 Open to opportunities, reach me at **dishancm6@gmail.com**
 
 <br/>
+
+<p align="center" >🔥 <i>“Driven by curiosity, powered by code.”</i></p>
 
 ## Connect with Me <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="10%" valign="bottom"/>
 <p align="left">
@@ -45,6 +55,19 @@
 ### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=malingabandara&theme=tokyonight&hide_border=true" alt="malingabandara" />
+
+  <br/>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malingabandara" height="192px"/>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=algolia" alt="malingabandara" height="192px" />
+</p>
+
+<p align="center">
+  <b>Note:</b> Top languages are metrics of my public code and do not reflect skill level.
+</p>
+
+<br/>
 </p>
 
 <br/>
