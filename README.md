@@ -84,10 +84,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=algolia" alt="malingabandara" height="192px" />
 </p> -->
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=malingabandara&theme=tokyonight-duo&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+<div>
+  <img  style="vertical-align: left" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em" />
+  <img  src="https://streak-stats.demolab.com?user=malingabandara&theme=tokyonight-duo&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+</div>
 
 
 <!-- <p align="center">
@@ -123,8 +124,15 @@ Stay motivated with a fresh developer quote every time you visit.
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width=45% />
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+
 <!--
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=malingabandara&label=Profile%20views&color=0e75b6&style=flat" alt="malingabandara" /> 
 </p>
 -->
+<div align="center" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:443AB4,100:9054CC&text=Thanks%20for%20visiting%20my%20profile!%20👋&fontSize=25&fontAlignY=50&animation=twinkling&descSize=27&descAlignY=85&fontColor=6A47C0&section=footer" width="80%" >
+    <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3NjY0NTgsIm5iZiI6MTc2Mjc2NjE1OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEwVDA5MTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwZGM0NGRlZWYyZjVhZTg4YWFkOGQ0OTY4OWYyODdjZmY2YmQ3NzFlZTFhMjQ1NWFjYjhhMzNiMmQ0NmJlYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bpr5JEGaEkCzECi-Kh9aLFEB-92dzfccV3f1ugiyn5s" width="15%" style="vertical-align: right;" >
+</div>
+
