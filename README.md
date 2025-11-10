@@ -1,22 +1,12 @@
 <div>
-  <img 
-    src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" 
-    width="15%" 
-    style="vertical-align: left;" 
-  >
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:443AB4,100:9054CC&text=Hi,%20I'm%20Malinga%20Bandara&fontSize=50&fontAlignY=45&animation=twinkling&descSize=27&descAlignY=85&desc=Software%20Engineer%20|%20Growth%20Mindset%20|%20Tech%20Enthusiast%20&fontColor=8865D4" 
-    width="80%" 
-  >
-  
+  <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="15%" style="vertical-align: left;" >
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:443AB4,100:9054CC&text=Hi,%20I'm%20Malinga%20Bandara&fontSize=50&fontAlignY=45&animation=twinkling&descSize=27&descAlignY=85&desc=Software%20Engineer%20|%20Growth%20Mindset%20|%20Tech%20Enthusiast%20&fontColor=8865D4" width="80%" >
 </div>
 
 
 <!--<img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width=5% valign=""> 
 
  Hi there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width=5% valign="bottom"> I'm Malinga Bandara -->
-
-
 
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
@@ -39,7 +29,7 @@
 
 <p align="center" >⚡ <i>“Building ideas into reality, one line at a time.”</i></p>
 
-## Connect with Me <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="10%" valign="bottom"/>
+## <img src="https://user-images.githubusercontent.com/74038190/212259476-c8a7ce08-99d8-428b-9227-c938d77eb651.png" width="10%" style="vertical-align: left;" > Connect with Me 
 <p align="left">
   <a href="https://twitter.com/MalingaB_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MalingaB_" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/malingabandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malingabandara" height="30" width="40" /></a>
@@ -52,25 +42,6 @@
 
 <br/>
 
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=malingabandara&theme=tokyonight&hide_border=true" alt="malingabandara" />
-
-  <br/>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malingabandara" height="192px"/>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=algolia" alt="malingabandara" height="192px" />
-</p>
-
-<p align="center">
-  <b>Note:</b> Top languages are metrics of my public code and do not reflect skill level.
-</p>
-
-<br/>
-</p>
-
-<br/>
 
 ## Languages and Tools <img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="10%" valign="bottom" /> 
 <p align="left">
@@ -101,7 +72,29 @@
 <br/>
 
 
-<br><br>
+## 📊 GitHub Statistics
+
+<!-- <p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malingabandara&show_icons=true&locale=en&layout=compact&theme=algolia" alt="malingabandara" height="192px"/>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&locale=en&theme=algolia" alt="malingabandara" height="192px" />
+</p> -->
+
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
+<img src="https://github-readme-stats.vercel.app/api?username=malingabandara&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=malingabandara&theme=tokyonight-duo&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+
+
+<!-- <p align="center">
+  <b>Note:</b> Top languages are metrics of my public code and do not reflect skill level.
+</p>
+
+<br/>
+</p> -->
+
+<br/>
+
 
 [![@malingabandara's Holopin board](https://holopin.io/api/user/board?user=malingabandara)](https://holopin.io/@malingabandara)
 
