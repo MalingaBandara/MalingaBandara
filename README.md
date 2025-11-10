@@ -111,7 +111,7 @@
 Stay motivated with a fresh developer quote every time you visit.  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" height="170em" />
 </p>
 <!--<h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
@@ -133,6 +133,6 @@ Stay motivated with a fresh developer quote every time you visit.
 -->
 <div align="center" >
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:443AB4,100:9054CC&text=Thanks%20for%20visiting%20my%20profile!%20👋&fontSize=25&fontAlignY=50&animation=twinkling&descSize=27&descAlignY=85&fontColor=6A47C0&section=footer" width="80%" >
-    <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI3NjY0NTgsIm5iZiI6MTc2Mjc2NjE1OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDItNDA2ZWIzZTYtY2FiYS00MDFkLTkzYzgtZTBhNzk0MWM4NGI5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEwVDA5MTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEwZGM0NGRlZWYyZjVhZTg4YWFkOGQ0OTY4OWYyODdjZmY2YmQ3NzFlZTFhMjQ1NWFjYjhhMzNiMmQ0NmJlYjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bpr5JEGaEkCzECi-Kh9aLFEB-92dzfccV3f1ugiyn5s" width="15%" style="vertical-align: right;" >
+    <img src="https://github.com/MalingaBandara/MalingaBandara/blob/main/src/bye.gif" width="15%" style="vertical-align: right;" >
 </div>
 
