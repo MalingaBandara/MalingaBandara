@@ -37,7 +37,7 @@
 
 <br/>
 
-<p align="center" >🔥 <i>“Driven by curiosity, powered by code.”</i></p>
+<p align="center" >⚡ <i>“Building ideas into reality, one line at a time.”</i></p>
 
 ## Connect with Me <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="10%" valign="bottom"/>
 <p align="left">
