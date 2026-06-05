@@ -87,16 +87,23 @@ I also craft modern web apps with the <b>MERN stack</b> and have shipped mobile 
 ## 📌 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Bitlord's Computer Parts</h3>
-      <p>Event-driven order & inventory management system built with Spring Boot microservices. Features JWT/RBAC auth, RabbitMQ messaging, Thymeleaf email templates, and a React dark-space-tech frontend.</p>
+      <tr>
+       <td width="50%" valign="top">
+      <h3>🖥️ Bitlord's Computer Parts</h3>
+      <p>
+        Enterprise-grade Event-Driven Microservices platform for a computer hardware retailer.
+        Built with Java 17, Spring Boot, Apache Kafka, and React. Features API Gateway,
+        Service Discovery, JWT Authentication, Distributed Tracing, and Real-Time Inventory Management.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Eureka-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
